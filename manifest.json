@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Anton Ate",
+  "version": "1.0.0",
+  "description": "Anton watches how many tabs you open and closes them when you have more than 8",
+  "icons": {
+    "16": "anton.png",
+    "32": "anton.png",
+    "48": "anton.png",
+    "128": "anton.png"
+  },  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  }
+}
