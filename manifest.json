@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Anton Ate",
   "version": "1.0.0",
-  "description": "Anton watches how many tabs you open and closes them when you have more than 8",
+  "description": "Anton watches how many tabs you open and eats them when you have more than eight",
   "icons": {
     "16": "anton.png",
     "32": "anton.png",

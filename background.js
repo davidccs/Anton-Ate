@@ -1,7 +1,7 @@
 async function updateBadge(tabCount) {
   const currentTabs = await getTabOpenTabs();
   if (tabCount > 8) {
-    const toBeRemoved = currentTabs.shift()
+    const toBeRemoved = currentTabs.pop()
     closeTab(toBeRemoved)
   }
 
