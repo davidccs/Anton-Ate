@@ -1,6 +1,6 @@
 # Anton-Ate
 
-# ChromeTabLimit Extension
+# Anton Ate Extension
 Introduction
 Anton Ate is a Google Chrome extension that helps users limit the number of tabs they can open in their browser. The extension prevents users from opening more than eight tabs at a time, helping to reduce clutter and improve productivity.
 
